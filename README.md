@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> NextJS T3 app with PreactJS instead of React. Also using TypeScript, tRPC and Tailwind.
+> NextJS T3 appDir template using TypeScript, tRPC and Tailwind.
 
 ## Demo
 

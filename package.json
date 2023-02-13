@@ -15,7 +15,6 @@
     "@trpc/react-query": "^10.11.0",
     "@trpc/server": "^10.11.0",
     "next": "13.1.6",
-    "preact": "^10.12.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "superjson": "1.12.2",

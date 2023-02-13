@@ -11,6 +11,10 @@
 
 > NextJS T3 app with PreactJS instead of React. Also using TypeScript, tRPC and Tailwind.
 
+## Demo
+
+> <a href="https://nextjs-appdir-t3.vercel.app">Click here to view the demo</a>
+
 ## Install
 
 ```sh
